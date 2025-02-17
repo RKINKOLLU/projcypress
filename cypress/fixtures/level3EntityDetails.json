@@ -1,0 +1,34 @@
+{
+    "add": {
+        "parentEntity": "Ocado_AUS_L2",
+        "level3EntityName": "Ocado_AUS_L3",
+        "level3EntityReference": "Ocado_AUS_L3",
+        "billTo": "Ocado_AUS_L3",
+        "tradeCode": "N123",
+        "brandType": "COMMERCIAL TRADING",
+        "brandCode": "0001",
+        "level3EntityStatus": "on",
+        "businessEmailAddress": "xyz@anymail.com",
+        "codeBusinessLandlineNumber": "011",
+        "businessLandlineNumber": "1234567890",
+        "countryCode": "GB",
+        "timezone": "London",
+        "priceCard": "(1)"
+    },
+    "edit":{
+        "parentEntity": "Ocado_AUS_L2",
+        "level3EntityName": "Ocado_AUS_L30",
+        "level3EntityReference": "Ocado_AUS_L30",
+        "billTo": "Ocado_AUS_L30",
+        "tradeCode": "N1234",
+        "brandType": "CE - NON TRADING",
+        "brandCode": "0001",
+        "level3EntityStatus": "on",
+        "businessEmailAddress": "xyz123@anymail.com",
+        "codeBusinessLandlineNumber": "022",
+        "businessLandlineNumber": "1234567890",
+        "countryCode": "BR",
+        "timezone": "Hawaii",
+        "priceCard": "(2)"
+    }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "grid2.0",
+  "version": "1.0.0",
+  "description": "**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**",
+  "main": "index.js",
+  "dependencies": {
+    "cypress-real-events": "^1.4.0",
+    "del-cli": "^4.0.0",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "cypress": "^8.0.0",
+    "cypress-cucumber-preprocessor": "^4.1.4",
+    "cypress-image-snapshot": "^4.0.1",
+    "cypress-multi-reporters": "^1.5.0",
+    "mocha": "^8.3.2",
+    "mochawesome": "^6.2.2",
+    "mochawesome-merge": "^4.2.0",
+    "mochawesome-report-generator": "^5.2.0",
+    "multiple-cucumber-html-reporter": "^1.18.0"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true,
+    "cucumberJson": {
+      "generate": true,
+      "outputFolder": "cypress/cucumber-json",
+      "filePrefix": "",
+      "fileSuffix": ".cucumber"
+    }
+  },
+  "scripts": {
+    "scripts01": "C:/Users/maheshmadishetti.COFFEENATION/OneDrive - Costa Express Limited/Desktop/uivisiontest01.bat",
+    "clean:results": "rmdir /S /Q cypress\\reports && mkdir cypress\\reports && mkdir cypress\\reports\\mocha && mkdir cypress\\reports\\mochareports",
+    "_clean:results": "del /s cypress/reports/mocha/*.* && mkdir cypress/reports/mochareports/*.*",
+    "pretest": "npm run clean:results",
+    "scripts": "cypress run",
+    "combine-reports": "mochawesome-merge cypress/reports/mocha/*.json > cypress/reports/mochareports/report.json",
+    "generate-report": "marge cypress/reports/mochareports/report.json -f report -o cypress/reports/mochareports",
+    "posttest": "npm run combine-reports && npm run generate-report",
+    "test": "npm run scripts || npm run posttest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://London3030@bitbucket.org/cypress-auto/grid2.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/cypress-auto/grid2.0#readme"
+}

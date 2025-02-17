@@ -1,0 +1,102 @@
+{
+    "autodata": {
+        "prefix": "Test_USA"
+    },
+    "add": {
+        "franchiseId": "Ocado_AUS_Franchise",
+        "marketName": "Ocado_AUS_Market",
+        "additionalInformation": "Automation Run",
+        "billTo": "Ocado_AUS_Market",
+        "marketEntityStatus": "on",
+        "countryCode": "United Kingdom",
+        "timeZone": "London",
+        "businessEmailAddress": "xyz@anymail.com",
+        "areaCodeBusinessLandlineNumber": "011",
+        "businessLandlineNumber": "1234567890",
+        "alarmsEscalationEmail": "alarm@anymail.com",
+        "cupSizeSmall": "9oz",
+        "cupSizeMedium": "16oz",
+        "cupSizeLarge": "20oz",
+        "priceCard": "(1)",
+        "parentOrganizationName": "CocoCola Organization",
+        "cocaColaRegion": "Europe, Middle East & Africa",
+        "level2EntityReference": "on",
+        "level2Child": "on",
+        "level3EntityReference": "on",
+        "level3Child": "on",
+        "partnerReference": "on",
+        "level5EntityReference": "on",
+        "level5Child": "on",
+        "level6EntityReference": "on",
+        "level6Child": "on",
+        "siteReference": "on",
+        "machineReference": "on",
+        "emptyString": "{enter}",
+        "backSpace": "{backspace}"
+    },
+    "edit": {
+        "franchiseId": "Ocado_AUS_Franchise",
+        "marketName": "Ocado_Japan_Market",
+        "additionalInformation": "to demo the automation tool1",
+        "billTo": "Ocado_Japan_Market",
+        "billTo2": "Ocado_AUS_Market",
+        "marketEntityStatus": "off",
+        "countryCode": "Tokya",
+        "timeZone": "Tokyo",
+        "businessEmailAddress": "xyz123@anymail.com",
+        "areaCodeBusinessLandlineNumber": "044",
+        "businessLandlineNumber": "9876543210",
+        "alarmsEscalationEmail": "alarm123@anymail.com",
+        "cupSizeSmall": "4oz",
+        "cupSizeMedium": "7oz",
+        "cupSizeLarge": "9oz",
+        "priceCard": "(2)",
+        "parentOrganizationName": "Cococola Organization",
+        "cocaColaRegion": "Latin America",
+        "level2EntityReference": "off",
+        "level2Child": "off",
+        "level3EntityReference": "off",
+        "level3Child": "off",
+        "partnerReference": "off",
+        "level5EntityReference": "off",
+        "level5Child": "off",
+        "level6EntityReference": "off",
+        "level6Child": "off",
+        "siteReference": "off",
+        "machineReference": "off",
+        "emptyString": "{enter}",
+        "backSpace": "{backspace}"
+    },
+    "drinks": {
+        "templateName": "Ocado_UK_PCT",
+        "markets_1": "Ocado_AUS_Market",
+        "AMEB": "Americano",
+        "ESPR": "Espresso",
+        "CHOC": "Chocolate",
+        "FLAT":"Flat White",
+        "MOCC":"Mocha",
+        "CRMW": "White Kaffee Crema"
+    },
+    "coffeeTypes": {
+        "CC": "Café Crema",
+        "KA": "Katana 95",
+        "MI": "Mocha Italia",
+        "primaryCoffeeType":"Mocha Italia"
+    },
+    "milkTypes": {
+        "A2": "Almond",
+        "B2": "Coconut",
+        "B1": "Whole Milk",
+        "primaryMilkType":"Whole Milk"
+    },
+    "syrups": {
+        "SUG": "Sugar syrup",
+        "SVN": "Strawberry & Vanilla",
+        "CAR": "Caramel"
+    },
+    "cupSizes": {
+        "L": "Large",
+        "M": "Medium",
+        "S": "Small"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "add": {
+        "parentEntity": "Ocado_AUS_L3",
+        "partnerName": "Ocado_AUS_P",
+        "partnerReference": "Ocado_AUS_P",
+        "billTo": "Ocado_AUS_P",
+        "partnerEntityStatus": "on",
+        "cupSizeSmall": "9oz",
+        "cupSizeMedium": "16oz",
+        "cupSizeLarge": "20oz",
+        "priceCard": "(1)",
+        "tradeCode": "N123",
+        "brandType": "COMMERCIAL TRADING",
+        "brandCode": "0001",
+        "businessEmailAddress": "xyz@anymail.com",
+        "codeBusinessLandlineNumber": "011",
+        "businessLandlineNumber": "1234567890",
+        "countryCode": "GB",
+        "timezone": "London",
+        "currency": "GB",
+        "config": {
+            "waffleCupsSizeShort": "7oz",
+            "waffleCupsSizeSmall": "9oz",
+            "waffleCupsSizeMedium": "12oz",
+            "waffleCupsSizelarge": "16oz",
+            "plasticCupsSizeMedium": "Not in Use",
+            "plasticCupsSizeLarge": "Not in Use"
+        }
+    },
+    "edit": {
+        "parentEntity": "Ocado_AUS_L3",
+        "partnerName": "Ocado_AUS_P0",
+        "partnerReference": "Ocado_AUS_P0",
+        "billTo": "Ocado_AUS_P0",
+        "partnerEntityStatus": "on",
+        "cupSizeSmall": "4oz",
+        "cupSizeMedium": "7oz",
+        "cupSizeLarge": "9oz",
+        "priceCard": "(2)",
+        "tradeCode": "N123",
+        "brandType": "CE - NON TRADING",
+        "brandCode": "0001",
+        "businessEmailAddress": "xyz@anymail.com",
+        "codeBusinessLandlineNumber": "011",
+        "businessLandlineNumber": "1234567890",
+        "countryCode": "BR",
+        "timezone": "Hawaii",
+        "currency": "yen"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "ingredience":{
+        "drink": "TEST",
+        "drinkCode":"AUSD",
+        "cupType": "Plastic Cup",
+        "drinkType": "Other",
+        "coffeeCode": "TB",
+        "milkCode": "TB",
+        "syrupCode": "TBC"
+    }
+}

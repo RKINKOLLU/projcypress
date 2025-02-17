@@ -1,0 +1,11 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=-7767
+END=7044
+title=System Admin, should able to move Machines between the sites Verify if user can able move Machines between the sites
+[CHAPTER]
+TIMEBASE=1/1000
+START=2254
+END=22005
+title=System Admin, should able to move Machines between the sites Verify different msgs that occur during Machine move

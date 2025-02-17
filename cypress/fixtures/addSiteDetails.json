@@ -1,0 +1,104 @@
+{
+    "add": {
+        "parentEntity": "Ocado_AUS_L6",
+        "siteName": "_SiteC",
+        "siteReference": "_SiteC",
+        "siteEntityStatus": "on",
+        "siteSellToNumber": "_SiteC",
+        "priceCard": "(1)",
+        "tradeCode": "N123",
+        "brandType": "COMMERCIAL TRADING",
+        "brandCode": "0001",
+
+        "primaryAlarm1stContactEmail":"xyz@anymail.com",
+        "codePrimaryAlarm1stContactMobileNumber": "011",
+        "primaryAlarm1stContactMobileNumber": "1234567890",
+
+        "primaryAlarm2ndContactEmail":"xyz@anymail.com",
+        "codePrimaryAlarm2ndContactMobileNumber": "011",
+        "primaryAlarm2ndContactMobileNumber": "1234567890",
+
+        "secondaryAlarm1stContactEmail":"xyz@anymail.com",
+        "codeSecondaryAlarm1stContactMobileNumber": "011",
+        "secondaryAlarm1stContactMobileNumber": "1234567890",
+
+        "secondaryAlarm2ndContactEmail":"xyz@anymail.com",
+        "codeSecondaryAlarm2ndContactMobileNumber": "011",
+        "secondaryAlarm2ndContactMobileNumber": "1234567890",
+
+        "serviceAgentCompanyName":"costa",
+        "serviceAgentBusinessEmail":"xyz@anymail.com",
+        "codeServiceAgentMobileNumber": "011",
+        "serviceAgentMobileNumber": "1234567890",
+
+        "businessEmailAddress": "xyz@anymail.com",
+        "codeBusinessLandlineNumber": "011",
+        "businessLandlineNumber": "1234567890",
+
+        "siteAddress1":"site 121",
+        "siteAddress2":"site 122",
+        "siteCity":"city 121",
+        "siteLocality":"locality 121",
+        "sitePostalCode":"post code",
+        "siteCountryCode": "GB",
+        "language" : "English",
+        "currency": "GB",
+        "timezone": "London",
+        "config": {
+            "waffleCupsSizeShort": "7oz",
+            "waffleCupsSizeSmall": "9oz",
+            "waffleCupsSizeMedium": "12oz",
+            "waffleCupsSizelarge": "16oz",
+            "plasticCupsSizeMedium": "12oz",
+            "plasticCupsSizeLarge": "16oz",
+            "machineType":"Schaerer Soul"
+        }
+    },
+    "edit": {
+        "parentEntity": "Ocado_AUS_L6",
+        "siteName": "Ocado_AUS_Site0",
+        "siteReference": "Ocado_AUS_Site0",
+        "siteEntityStatus": "on",
+        "siteSellToNumber": "Ocado_AUS_Site0",
+        "priceCard": "(2)",
+        "tradeCode": "N123",
+        "brandType": "CE - NON TRADING",
+        "brandCode": "0001",
+
+        "primaryAlarm1stContactEmail":"xyz1@anymail.com",
+        "codePrimaryAlarm1stContactMobileNumber": "011",
+        "primaryAlarm1stContactMobileNumber": "1234567890",
+
+        "primaryAlarm2ndContactEmail":"xyz1@anymail.com",
+        "codePrimaryAlarm2ndContactMobileNumber": "011",
+        "primaryAlarm2ndContactMobileNumber": "1234567890",
+
+        "secondaryAlarm1stContactEmail":"xyz1@anymail.com",
+        "codeSecondaryAlarm1stContactMobileNumber": "011",
+        "secondaryAlarm1stContactMobileNumber": "1234567890",
+
+        "secondaryAlarm2ndContactEmail":"xyz1@anymail.com",
+        "codeSecondaryAlarm2ndContactMobileNumber": "011",
+        "secondaryAlarm2ndContactMobileNumber": "1234567890",
+
+        "serviceAgentCompanyName":"costa-32",
+        "serviceAgentBusinessEmail":"xyz1@anymail.com",
+        "codeServiceAgentMobileNumber": "011",
+        "serviceAgentMobileNumber": "1234567890",
+
+
+        "businessEmailAddress": "xyz@anymail.com",
+        "codeBusinessLandlineNumber": "011",
+        "businessLandlineNumber": "1234567890",
+
+        "siteAddress1":"site 121",
+        "siteAddress2":"site 122",
+        "siteCity":"city 121",
+        "siteLocality":"locality 121",
+        "sitePostalCode":"pincode",
+        "siteCountryCode": "BR",
+        "language" : "English",
+        "timezone": "Hawaii",
+        "currency": "yen"
+    }
+}

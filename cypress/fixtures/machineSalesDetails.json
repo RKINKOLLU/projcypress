@@ -1,0 +1,45 @@
+{
+    "HCHO-MT1-1-1CAR-C-CT01-RO-12-1B":{
+        "machineSystemId": "AV-L8-0000185",
+        "manufacturePrice": 2117,
+        "cupSizeCode": "M",
+        "grinder": 1,
+        "milk": 0,
+        "syrup": 1,
+        "isCanceled": false,
+        "drinkCode": "HCHO"
+      },
+      "salesData":{
+        "drinkCode": "AMEB-MC1-1-1SVN-C-CT01-MI-12-2C",
+        "machineSystemId": "AV-L8-0000171",
+        "manufacturePrice": 2220,
+        "cupSizeCode": "M",
+        "grinder": 1,
+        "milk": 1,
+        "syrup": 2,
+        "isCanceled": false,
+        "drink": "AMEB",
+        "price":"2.25",
+        "drinkName":"Americano",
+        "drinkType" :"Coffee",
+        "cupSize" : "Medium",
+        "beanType" : "MI",
+        "cupVolume" : "12",
+        "milkType" :"2C",
+        "flavourShots":"Strawberry & Vanilla"
+      },
+      "machineTwin":{
+        "machineSystemId": "16072021",
+        "currentSoftwareVersion": "0.11",
+        "isInDaylightSavingTimeMode": true,
+        "macAddress": "5200000005251",
+        "machineType": "8",
+        "machineTypeCode": "MACHINE_SAG_SOUL",
+        "materialGroupNumber": "OKN12",
+        "timeOffset": "3",
+        "paymentSystemType": "MasterCard",
+        "geoPositionLongitude": "22.23232",
+        "paymentTerminalId": "342353226",
+        "geoPositionLatitude": "33.232323"
+      }
+}
