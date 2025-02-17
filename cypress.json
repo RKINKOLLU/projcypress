@@ -1,0 +1,43 @@
+{
+    "env": {
+        "__TAGS": "@testing"
+    },
+    "projectId": "iv2h72",
+    "baseUrl": "https://20.82.227.83",
+    "_baseUrl": "https://20.68.111.6:2030/",
+    "chromeWebSecurity": true,
+    "updateSnapshots":true,
+    "viewportWidth": 1280,
+    "viewportHeight": 1024,
+    "screenshotsFolder": "cypress/screenshots",
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+        "reporterEnabled": "mochawesome",
+        "mochawesomeReporterOptions": {
+            "reportDir": "cypress/reports/mocha",
+            "quite": true,
+            "overwrite": false,
+            "html": false,
+            "json": true,
+            "timestamp": "mmddyyyy_HHMMss"
+        }
+    },
+    "__testFiles": "**/*.feature",
+    "__retries": 2,
+    "testFiles": [
+        "**/login.feature",
+        "**/addMarket.feature",
+        "**/addLevel2Entity.feature",
+        "**/addLevel3Entity.feature",
+        "**/addPartner.feature",
+        "**/addLevel5Entity.feature",
+        "**/addLevel6Entity.feature",
+        "**/addSite.feature",
+        "**/addMachine.feature",
+        "**/moveMachine.feature",
+        "**/addPriceCard.feature",
+        "**/ingredientsConfiguration.feature",
+        "**/machineSales.feature"
+      ],
+    "cuke_step_definition_file_path": ".vscode/stepDefinition.js"
+}
