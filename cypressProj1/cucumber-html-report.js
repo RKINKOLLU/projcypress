@@ -2,8 +2,8 @@ const report = require("multiple-cucumber-html-reporter");
 report.generate({
     jsonDir: "cypress/cucumber-json",  // ** Path of .json file **//
     reportPath: "./reports/cucumber-htmlreport.html",
-    pageTitle:"Grid 2.0 Automation Run",
-    reportName: "Grid 2.0 Automation Run Results",
+    pageTitle:"Web-UI Cypress Automation Run",
+    reportName: "Web-UI Cypress Automation Run Results Rel2.38",
     displayDuration: false,
     durationInMS: false,
     metadata: {
