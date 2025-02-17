@@ -1,5 +1,5 @@
 {
-  "name": "grid2.0",
+  "name": "webui-cypress",
   "version": "1.0.0",
   "description": "**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**",
   "main": "index.js",
@@ -41,10 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://London3030@bitbucket.org/cypress-auto/grid2.0.git"
+    "url": "https://github.com/RKINKOLLU/projcypress.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/cypress-auto/grid2.0#readme"
+  "homepage": "https://github.com/RKINKOLLU/projcypress.git#readme"
 }
